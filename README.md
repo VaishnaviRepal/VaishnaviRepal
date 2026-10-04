@@ -30,5 +30,4 @@ Computer Engineering undergraduate (Data Science Honors) at Modern College Pune 
 ### Connect
 
 Feel free to connect or reach out for collaboration:
-- **LinkedIn:** [linkedin.com/in/vaishnavi-repal](https://www.linkedin.com/in/vaishnavi-repal/)
-- **LeetCode:** [leetcode.com/u/Vaishnavi_Repal](https://leetcode.com/u/Vaishnavi_Repal/)
+- **LinkedIn:**
