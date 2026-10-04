@@ -7,11 +7,32 @@ Computer Engineering undergraduate (Data Science Honors) at Modern College Pune 
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-- **Languages:** `C++` `JavaScript (ES6+)` `C` `Oracle SQL` `Python` `Java`
-- **IT Constructs:** `Data Structures and Algorithms` `DBMS` `Object Oriented Programming` `MongoDB`
-- **Frameworks and Tools:** `Node.js` `Express.js` `React.js` `Next.js` `NextAuth` `TypeScript` `Git` `GitHub` `Postman` `VS Code`
+#### Languages
+![C++](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+
+#### Frontend
+![React](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+#### Backend & Database
+![Node.js](https://shields.io)
+![Express](https://shields.io)
+![MongoDB](https://shields.io)
+![Redis](https://shields.io)
+
+#### Tools
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Docker](https://shields.io)
+![VS Code](https://shields.io)
+![Linux](https://shields.io)
+![Postman](https://shields.io)
 
 ---
 
